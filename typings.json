@@ -1,6 +1,5 @@
 {
+  "name": "advanced-types",
   "dependencies": {
-    "react": "registry:dt/react#15.0.0+20170217213317",
-    "react-native": "registry:dt/react-native#0.37.0+20170214044626"
   }
 }
